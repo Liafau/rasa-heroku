@@ -1,0 +1,182 @@
+{
+  "utter_syarat_tinggi": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 2
+  },
+  "random_militer": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 1
+  },
+  "syarat_wajib_peminatan": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 2
+  },
+  "utter_umum_kontak": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 2
+  },
+  "utter_iamabot": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 1
+  },
+  "utter_umum_pendaftaran_waktu": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 4
+  },
+  "utter_syarat_mata": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 2
+  },
+  "umum_pendaftaran_waktu": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 4
+  },
+  "utter_umum_jurusan": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 2
+  },
+  "syarat_mata": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 2
+  },
+  "syarat_tinggi": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 2
+  },
+  "umum_informasi": {
+    "precision": 1.0,
+    "recall": 0.8,
+    "f1-score": 0.888888888888889,
+    "support": 5
+  },
+  "action_listen": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 43
+  },
+  "umum_biaya": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 2
+  },
+  "utter_random_militer": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 1
+  },
+  "utter_umum_biaya": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 2
+  },
+  "umum_tempat_tes": {
+    "precision": 0.75,
+    "recall": 1.0,
+    "f1-score": 0.8571428571428571,
+    "support": 3
+  },
+  "utter_umum_tempat_tes": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 3
+  },
+  "utter_no_worries": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 8
+  },
+  "thankyou": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 8
+  },
+  "umum_kontak": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 2
+  },
+  "umum_jurusan": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 2
+  },
+  "utter_syarat_wajib_peminatan": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 2
+  },
+  "utter_umum_informasi": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 5
+  },
+  "bot_challenge": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 1
+  },
+  "utter_sapa": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 9
+  },
+  "sapa": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 9
+  },
+  "accuracy": 0.9922480620155039,
+  "macro avg": {
+    "precision": 0.9907407407407407,
+    "recall": 0.9925925925925926,
+    "f1-score": 0.9905937683715462,
+    "support": 129
+  },
+  "weighted avg": {
+    "precision": 0.9941860465116279,
+    "recall": 0.9922480620155039,
+    "f1-score": 0.9923711086501784,
+    "support": 129
+  },
+  "conversation_accuracy": {
+    "accuracy": 0.9,
+    "correct": 9,
+    "total": 10
+  }
+}
